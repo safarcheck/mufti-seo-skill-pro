@@ -1,0 +1,13 @@
+{
+  "name": "mufti-seo-skill-pro",
+  "version": "1.0.0",
+  "description": "A complete SEO + AI SEO department in one skill, with a strict humanizer that strips AI phrases from every draft.",
+  "author": {
+    "name": "Mufti",
+    "url": "https://github.com/safarcheck"
+  },
+  "repository": "https://github.com/safarcheck/mufti-seo-skill-pro",
+  "license": "MIT",
+  "keywords": ["seo", "aeo", "geo", "topical-map", "topical-authority", "semantic-seo", "entities", "humanizer", "ai-slop", "llm-optimization"],
+  "skills": "./skills/"
+}

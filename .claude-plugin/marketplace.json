@@ -1,0 +1,20 @@
+{
+  "name": "mufti-seo-skill-pro",
+  "owner": {
+    "name": "Mufti",
+    "url": "https://github.com/safarcheck"
+  },
+  "metadata": {
+    "description": "A complete SEO + AI SEO department in one skill, with a strict humanizer that strips AI phrases from every draft."
+  },
+  "plugins": [
+    {
+      "name": "mufti-seo-skill-pro",
+      "source": "./",
+      "description": "Research, topical maps, semantic and entity SEO, technical, on-page, content, AEO/GEO/LLM optimization, authority, local and ecommerce, measurement, and AI-phrase removal.",
+      "version": "1.0.0",
+      "category": "seo",
+      "strict": false
+    }
+  ]
+}
